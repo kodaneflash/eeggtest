@@ -1,0 +1,39 @@
+{
+  "title": "Expert led courses for front-end web developers.",
+  "titleTemplate": "%s | egghead.io",
+  "description": "expert led courses for front-end web developers and teams that want to level up through straightforward and concise lessons on the most useful tools available.",
+  "additionalLinkTags": [
+    {
+      "rel": "search",
+      "type": "application/opensearchdescription+xml",
+      "href": "/opensearch.xml",
+      "title": "egghead"
+    }
+  ],
+  "additionalMetaTags": [
+    {"property": "author", "content": "eggheadio"},
+    {
+      "property": "keywords",
+      "content": ""
+    }
+  ],
+  "twitter": {
+    "cardType": "summary_large_image",
+    "handle": "eggheadio",
+    "site": "eggheadio"
+  },
+  "openGraph": {
+    "type": "website",
+    "title": "Expert led courses for front-end web developers.",
+    "description": "expert led courses for front-end web developers and teams that want to level up through straightforward and concise lessons on the most useful tools available.",
+    "site_name": "egghead",
+    "profile": {
+      "firstName": "egghead"
+    },
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dg3gyk0gu/image/upload/v1637345011/egghead-next-pages/home-page/root-og_2x.png"
+      }
+    ]
+  }
+}
